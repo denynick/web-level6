@@ -5,7 +5,7 @@
     "breed": "Golden Retriever",
     "age": 3,
     "description": "Buddy is a friendly, energetic Golden Retriever who loves outdoor activities. He enjoys playing fetch and gets along well with children and other dogs. He’s looking for an active family to adopt him.",
-    "image": "https://example.com/images/buddy.jpg"
+    "image": "1.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "breed": "Bulldog",
     "age": 5,
     "description": "Max is a calm and affectionate Bulldog. He enjoys lounging around and is very easy-going. Max would thrive in a quiet home and with an owner who is looking for a laid-back companion.",
-    "image": "https://example.com/images/max.jpg"
+    "image": "2.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "breed": "Labrador",
     "age": 4,
     "description": "Bella is an affectionate Labrador who loves to fetch and swim. She enjoys spending time with her family and would be a great companion for an active family. She has already been adopted by a loving home.",
-    "image": "https://example.com/images/bella.jpg"
+    "image": "3.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "breed": "Beagle",
     "age": 2,
     "description": "Sadie is an energetic Beagle with a playful personality. She loves exploring the outdoors and would be an excellent choice for a family with an active lifestyle. Sadie is ready to be adopted!",
-    "image": "https://example.com/images/sadie.jpg"
+    "image": "4.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "breed": "German Shepherd",
     "age": 6,
     "description": "Rocky is a loyal and intelligent German Shepherd. He enjoys training and outdoor activities. He needs an experienced owner who can provide the structure and exercise he craves.",
-    "image": "https://example.com/images/rocky.jpg"
+    "image": "5.jpg"
   },
   {
     "id": 6,
@@ -45,6 +45,6 @@
     "breed": "Poodle",
     "age": 4,
     "description": "Lucy is a sweet and intelligent Poodle with a friendly disposition. She enjoys playing with toys, getting attention, and taking walks. Lucy would do well in a family home and gets along with children and other pets.",
-    "image": "https://example.com/images/lucy.jpg"
+    "image": "6.jpg"
   }
 ]

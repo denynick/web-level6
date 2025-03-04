@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "name": "Thermal Dog Jacket",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/winter-dog-jacket.jpg",
+        "description": "Waterproof and windproof jacket with reflective strips for winter walks",
+        "price": 39.99,
+        "category": "winter"
+    },
+    {
+        "id": 2,
+        "name": "Heated Pet Bed",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/heated-pet-bed.jpg",
+        "description": "Self-warming bed with plush interior for extra winter comfort",
+        "price": 54.99,
+        "category": "winter"
+    },
+    {
+        "id": 3,
+        "name": "Winter Paw Protection Balm",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/paw-balm.jpg",
+        "description": "Protective balm to shield pet paws from cold, salt, and ice",
+        "price": 15.99,
+        "category": "winter"
+    },
+    {
+        "id": 4,
+        "name": "Pet Winter Boots",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/pet-winter-boots.jpg",
+        "description": "Waterproof and non-slip boots to protect paws during winter walks",
+        "price": 29.99,
+        "category": "winter"
+    },
+    {
+        "id": 5,
+        "name": "Premium Adult Dog Kibble",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/premium-dog-kibble.jpg",
+        "description": "High-protein dry food with balanced nutrition for adult dogs",
+        "price": 45.99,
+        "category": "dry-food"
+    },
+    {
+        "id": 6,
+        "name": "Senior Dog Nutrition Blend",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/senior-dog-food.jpg",
+        "description": "Special dry food formulated for senior dogs with joint support",
+"price": 49.99,
+        "category": "dry-food"
+    },
+    {
+        "id": 7,
+        "name": "Puppy Growth Formula",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/puppy-kibble.jpg",
+        "description": "Nutrient-rich dry food designed for puppy growth and development",
+        "price": 39.99,
+        "category": "dry-food"
+    },
+    {
+        "id": 8,
+        "name": "Weight Management Kibble",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/weight-management-food.jpg",
+        "description": "Low-calorie dry food for dogs maintaining a healthy weight",
+        "price": 42.99,
+        "category": "dry-food"
+    },
+    {
+        "id": 9,
+        "name": "Beef Jerky Dog Treats",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/beef-jerky-treats.jpg",
+        "description": "100% natural beef jerky treats with no artificial preservatives",
+        "price": 12.99,
+        "category": "treats"
+    },
+    {
+        "id": 10,
+        "name": "Dental Care Treats",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/dental-treats.jpg",
+        "description": "Crunchy treats that help clean teeth and freshen breath",
+        "price": 14.99,
+        "category": "treats"
+    },
+    {
+        "id": 11,
+        "name": "Training Reward Treats",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/training-treats.jpg",
+        "description": "Small, low-calorie treats perfect for dog training sessions",
+        "price": 9.99,
+        "category": "treats"
+    },
+    {
+        "id": 12,
+        "name": "Organic Chicken Treats",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/organic-treats.jpg",
+        "description": "Organic chicken treats made with human-grade ingredients",
+        "price": 16.99,
+        "category": "treats"
+    },
+    {
+        "id": 13,
+        "name": "Interactive Puzzle Toy",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/puzzle-toy.jpg",
+        "description": "Mental stimulation toy that dispenses treats and challenges dogs",
+        "price": 24.99,
+        "category": "toys"
+    },
+    {
+        "id": 14,
+        "name": "Squeaky Plush Toy",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/squeaky-toy.jpg",
+        "description": "Soft plush toy with internal squeaker for playful dogs",
+        "price": 12.99,
+        "category": "toys"
+    },
+    {
+        "id": 15,
+        "name": "Rope Chew Toy",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/rope-toy.jpg",
+        "description": "Durable cotton rope toy for aggressive chewers",
+        "price": 9.99,
+        "category": "toys"
+    },
+    {
+        "id": 16,
+        "name": "Fetch and Throw Ball",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/fetch-ball.jpg",
+        "description": "Bouncy rubber ball perfect for outdoor play and fetch",
+        "price": 7.99,
+        "category": "toys"
+    },
+    {
+        "id": 17,
+        "name": "Orthopedic Dog Bed",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/orthopedic-bed.jpg",
+        "description": "Memory foam bed with supportive edges for joint comfort",
+        "price": 79.99,
+        "category": "beds"
+    },
+    {
+        "id": 18,
+        "name": "Waterproof Dog Bed",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/waterproof-bed.jpg",
+        "description": "Durable, easy-to-clean bed with water-resistant cover",
+        "price": 59.99,
+        "category": "beds"
+    },
+    {
+        "id": 19,
+        "name": "Raised Cooling Bed",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/cooling-bed.jpg",
+        "description": "Elevated bed with breathable mesh for temperature regulation",
+        "price": 49.99,
+        "category": "beds"
+    },
+    {
+        "id": 20,
+        "name": "Cozy Cave Dog Bed",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/cave-bed.jpg",
+        "description": "Enclosed bed with soft interior for dogs who love to burrow",
+        "price": 64.99,
+        "category": "beds"
+    },
+    {
+        "id": 21,
+        "name": "Dental Cleaning Gel",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/dental-gel.jpg",
+        "description": "Professional-grade dental gel to reduce plaque and tartar",
+        "price": 18.99,
+        "category": "dental-care"
+    },
+    {
+        "id": 22,
+        "name": "Dog Toothbrush Set",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/toothbrush-set.jpg",
+        "description": "Ergonomic toothbrush with multiple heads for different dog sizes",
+        "price": 12.99,
+        "category": "dental-care"
+    },
+    {
+        "id": 23,
+        "name": "Dental Chew Sticks",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/dental-chews.jpg",
+        "description": "Textured chew sticks that help clean teeth while dogs enjoy",
+        "price": 15.99,
+        "category": "dental-care"
+    },
+    {
+        "id": 24,
+        "name": "Oral Health Water Additive",
+        "image": "https://raw.githubusercontent.com/denynick/web-level6/main/images/water-additive.jpg",
+        "description": "Tasteless liquid to add to water for improved dental hygiene",
+        "price": 9.99,
+        "category": "dental-care"
+    }
+]

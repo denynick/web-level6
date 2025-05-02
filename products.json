@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Thermal Dog Jacket",
-        "image": "/images/winter1.jpg",
+        "image": "/images/winter-jacket.avif",
         "description": "Waterproof and windproof jacket with reflective strips for winter walks",
         "price": 39.99,
         "category": "winter"
@@ -66,7 +66,7 @@
     {
         "id": 9,
         "name": "Beef Jerky Dog Treats",
-        "image": "/images/treats1.jpg",
+        "image": "/images/treats-beef.avif",
         "description": "100% natural beef jerky treats with no artificial preservatives",
         "price": 12.99,
         "category": "treats"
@@ -74,7 +74,7 @@
     {
         "id": 10,
         "name": "Dental Care Treats",
-        "image": "/images/treats2.jpg",
+        "image": "/images/treats-dental.avif",
         "description": "Crunchy treats that help clean teeth and freshen breath",
         "price": 14.99,
         "category": "treats"
@@ -82,7 +82,7 @@
     {
         "id": 11,
         "name": "Training Reward Treats",
-        "image": "/images/treats3.jpg",
+        "image": "/images/treats-training.avif",
         "description": "Small, low-calorie treats perfect for dog training sessions",
         "price": 9.99,
         "category": "treats"
@@ -90,7 +90,7 @@
     {
         "id": 12,
         "name": "Organic Chicken Treats",
-        "image": "/images/treats4.jpg",
+        "image": "/images/treats-organic-chicken.avif",
         "description": "Organic chicken treats made with human-grade ingredients",
         "price": 16.99,
         "category": "treats"
@@ -98,7 +98,7 @@
     {
         "id": 13,
         "name": "Interactive Puzzle Toy",
-        "image": "/images/toys1.jpg",
+        "image": "/images/toys-puzzle.avif",
         "description": "Mental stimulation toy that dispenses treats and challenges dogs",
         "price": 24.99,
         "category": "toys"
@@ -106,7 +106,7 @@
     {
         "id": 14,
         "name": "Squeaky Plush Toy",
-        "image": "/images/toys2.jpg",
+        "image": "/images/toys-squeaky.avif",
         "description": "Soft plush toy with internal squeaker for playful dogs",
         "price": 12.99,
         "category": "toys"
@@ -114,7 +114,7 @@
     {
         "id": 15,
         "name": "Rope Chew Toy",
-        "image": "/images/toys3.jpg",
+        "image": "/images/toys-rope.avif",
         "description": "Durable cotton rope toy for aggressive chewers",
         "price": 9.99,
         "category": "toys"
@@ -122,7 +122,7 @@
     {
         "id": 16,
         "name": "Fetch and Throw Ball",
-        "image": "/images/toys4.jpg",
+        "image": "/images/toys-trow-ball.avif",
         "description": "Bouncy rubber ball perfect for outdoor play and fetch",
         "price": 7.99,
         "category": "toys"

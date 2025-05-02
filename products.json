@@ -130,7 +130,7 @@
     {
         "id": 17,
         "name": "Orthopedic Dog Bed",
-        "image": "/images/beds1.jpg",
+        "image": "/images/beds1.avif",
         "description": "Memory foam bed with supportive edges for joint comfort",
         "price": 79.99,
         "category": "beds"
@@ -138,7 +138,7 @@
     {
         "id": 18,
         "name": "Waterproof Dog Bed",
-        "image": "/images/beds2.jpg",
+        "image": "/images/beds2.avif",
         "description": "Durable, easy-to-clean bed with water-resistant cover",
         "price": 59.99,
         "category": "beds"
@@ -146,7 +146,7 @@
     {
         "id": 19,
         "name": "Raised Cooling Bed",
-        "image": "/images/beds3.jpg",
+        "image": "/images/beds3.avif",
         "description": "Elevated bed with breathable mesh for temperature regulation",
         "price": 49.99,
         "category": "beds"
@@ -154,7 +154,7 @@
     {
         "id": 20,
         "name": "Cozy Cave Dog Bed",
-        "image": "/images/beds4.jpg",
+        "image": "/images/beds4.avif",
         "description": "Enclosed bed with soft interior for dogs who love to burrow",
         "price": 64.99,
         "category": "beds"

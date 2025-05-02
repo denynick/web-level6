@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Heated Pet Bed",
-        "image": "/images/winter2.jpg",
+        "image": "/images/pet-bed.avif",
         "description": "Self-warming bed with plush interior for extra winter comfort",
         "price": 54.99,
         "category": "winter"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Winter Paw Protection Balm",
-        "image": "/images/winter3.jpg",
+        "image": "/images/paw-balm.avif",
         "description": "Protective balm to shield pet paws from cold, salt, and ice",
         "price": 15.99,
         "category": "winter"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Pet Winter Boots",
-        "image": "/images/winter4.jpg",
+        "image": "/images/pet-boots.avif",
         "description": "Waterproof and non-slip boots to protect paws during winter walks",
         "price": 29.99,
         "category": "winter"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Premium Adult Dog Kibble",
-        "image": "/images/dry-food1.jpg",
+        "image": "/images/dry-food-dog-kibble.avif",
         "description": "High-protein dry food with balanced nutrition for adult dogs",
         "price": 45.99,
         "category": "dry-food"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "Senior Dog Nutrition Blend",
-        "image": "/images/dry-food2.jpg",
+        "image": "/images/dry-food-dog-blend.avif",
         "description": "Special dry food formulated for senior dogs with joint support",
         "price": 49.99,
         "category": "dry-food"
@@ -50,7 +50,7 @@
     {
         "id": 7,
         "name": "Puppy Growth Formula",
-        "image": "/images/dry-food3.jpg",
+        "image": "/images/dry-food-growth.avif",
         "description": "Nutrient-rich dry food designed for puppy growth and development",
         "price": 39.99,
         "category": "dry-food"
@@ -58,7 +58,7 @@
     {
         "id": 8,
         "name": "Weight Management Kibble",
-        "image": "/images/dry-food4.jpg",
+        "image": "/images/dry-food-weight-management.avif",
         "description": "Low-calorie dry food for dogs maintaining a healthy weight",
         "price": 42.99,
         "category": "dry-food"
@@ -130,7 +130,7 @@
     {
         "id": 17,
         "name": "Orthopedic Dog Bed",
-        "image": "/images/beds1.avif",
+        "image": "/images/beds-orthopedic.avif",
         "description": "Memory foam bed with supportive edges for joint comfort",
         "price": 79.99,
         "category": "beds"
@@ -138,7 +138,7 @@
     {
         "id": 18,
         "name": "Waterproof Dog Bed",
-        "image": "/images/beds2.avif",
+        "image": "/images/beds-waterproof.avif",
         "description": "Durable, easy-to-clean bed with water-resistant cover",
         "price": 59.99,
         "category": "beds"
@@ -146,7 +146,7 @@
     {
         "id": 19,
         "name": "Raised Cooling Bed",
-        "image": "/images/beds3.avif",
+        "image": "/images/beds-raised.avif",
         "description": "Elevated bed with breathable mesh for temperature regulation",
         "price": 49.99,
         "category": "beds"
@@ -154,7 +154,7 @@
     {
         "id": 20,
         "name": "Cozy Cave Dog Bed",
-        "image": "/images/beds4.avif",
+        "image": "/images/beds-cozy.avif",
         "description": "Enclosed bed with soft interior for dogs who love to burrow",
         "price": 64.99,
         "category": "beds"
@@ -162,7 +162,7 @@
     {
         "id": 21,
         "name": "Dental Cleaning Gel",
-        "image": "/images/dental-care1.jpg",
+        "image": "/images/dental-care-gel.avif",
         "description": "Professional-grade dental gel to reduce plaque and tartar",
         "price": 18.99,
         "category": "dental-care"
@@ -170,7 +170,7 @@
     {
         "id": 22,
         "name": "Dog Toothbrush Set",
-        "image": "/images/dental-care2.jpg",
+        "image": "/images/dental-tootbrush.avif",
         "description": "Ergonomic toothbrush with multiple heads for different dog sizes",
         "price": 12.99,
         "category": "dental-care"
@@ -178,7 +178,7 @@
     {
         "id": 23,
         "name": "Dental Chew Sticks",
-        "image": "/images/dental-care3.jpg",
+        "image": "/images/dental-care-chew-sticks.avif",
         "description": "Textured chew sticks that help clean teeth while dogs enjoy",
         "price": 15.99,
         "category": "dental-care"
@@ -186,7 +186,7 @@
     {
         "id": 24,
         "name": "Oral Health Water Additive",
-        "image": "/images/dental-care4.jpg",
+        "image": "/images/dental-care-oral.avif",
         "description": "Tasteless liquid to add to water for improved dental hygiene",
         "price": 9.99,
         "category": "dental-care"

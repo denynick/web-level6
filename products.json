@@ -59,7 +59,8 @@
         "image": "/images/dry-food-growth.avif",
         "description": "Nutrient-rich dry food designed for puppy growth and development",
         "price": 39.99,
-        "category": "dry-food"
+        "category": "dry-food",
+        "quantity": 7
     },
     {
         "id": 8,

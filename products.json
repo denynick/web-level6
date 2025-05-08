@@ -5,7 +5,8 @@
         "image": "/images/winter-jacket.avif",
         "description": "Waterproof and windproof jacket with reflective strips for winter walks",
         "price": 39.99,
-        "category": "winter"
+        "category": "winter",
+        "quantity": 40
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "image": "/images/pet-bed.avif",
         "description": "Self-warming bed with plush interior for extra winter comfort",
         "price": 54.99,
-        "category": "winter"
+        "category": "winter",
+        "quantity": 10
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "image": "/images/paw-balm.avif",
         "description": "Protective balm to shield pet paws from cold, salt, and ice",
         "price": 15.99,
-        "category": "winter"
+        "category": "winter",
+        "quantity": 5
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "image": "/images/pet-boots.avif",
         "description": "Waterproof and non-slip boots to protect paws during winter walks",
         "price": 29.99,
-        "category": "winter"
+        "category": "winter",
+        "quantity": 2
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "image": "/images/dry-food-dog-kibble.avif",
         "description": "High-protein dry food with balanced nutrition for adult dogs",
         "price": 45.99,
-        "category": "dry-food"
+        "category": "dry-food",
+        "quantity": 25
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "image": "/images/dry-food-dog-blend.avif",
         "description": "Special dry food formulated for senior dogs with joint support",
         "price": 49.99,
-        "category": "dry-food"
+        "category": "dry-food",
+        "quantity": 100
     },
     {
         "id": 7,
@@ -61,7 +67,8 @@
         "image": "/images/dry-food-weight-management.avif",
         "description": "Low-calorie dry food for dogs maintaining a healthy weight",
         "price": 42.99,
-        "category": "dry-food"
+        "category": "dry-food",
+        "quantity": 1
     },
     {
         "id": 9,
@@ -69,15 +76,17 @@
         "image": "/images/treats-beef.avif",
         "description": "100% natural beef jerky treats with no artificial preservatives",
         "price": 12.99,
-        "category": "treats"
-    },
+        "category": "treats",
+        "quantity": 15
+        },
     {
         "id": 10,
         "name": "Dental Care Treats",
         "image": "/images/treats-dental.avif",
         "description": "Crunchy treats that help clean teeth and freshen breath",
         "price": 14.99,
-        "category": "treats"
+        "category": "treats",
+        "quantity": 2
     },
     {
         "id": 11,
@@ -85,7 +94,8 @@
         "image": "/images/treats-training.avif",
         "description": "Small, low-calorie treats perfect for dog training sessions",
         "price": 9.99,
-        "category": "treats"
+        "category": "treats",
+        "quantity": 150
     },
     {
         "id": 12,
@@ -93,7 +103,8 @@
         "image": "/images/treats-organic-chicken.avif",
         "description": "Organic chicken treats made with human-grade ingredients",
         "price": 16.99,
-        "category": "treats"
+        "category": "treats",
+        "quantity": 55
     },
     {
         "id": 13,
@@ -101,7 +112,8 @@
         "image": "/images/toys-puzzle.avif",
         "description": "Mental stimulation toy that dispenses treats and challenges dogs",
         "price": 24.99,
-        "category": "toys"
+        "category": "toys",
+        "quantity": 60
     },
     {
         "id": 14,
@@ -109,7 +121,8 @@
         "image": "/images/toys-squeaky.avif",
         "description": "Soft plush toy with internal squeaker for playful dogs",
         "price": 12.99,
-        "category": "toys"
+        "category": "toys",
+        "quantity": 18
     },
     {
         "id": 15,
@@ -117,7 +130,8 @@
         "image": "/images/toys-rope.avif",
         "description": "Durable cotton rope toy for aggressive chewers",
         "price": 9.99,
-        "category": "toys"
+        "category": "toys",
+        "quantity": 45
     },
     {
         "id": 16,
@@ -125,7 +139,8 @@
         "image": "/images/toys-trow-ball.avif",
         "description": "Bouncy rubber ball perfect for outdoor play and fetch",
         "price": 7.99,
-        "category": "toys"
+        "category": "toys",
+        "quantity": 1
     },
     {
         "id": 17,
@@ -133,7 +148,8 @@
         "image": "/images/beds-orthopedic.avif",
         "description": "Memory foam bed with supportive edges for joint comfort",
         "price": 79.99,
-        "category": "beds"
+        "category": "beds",
+        "quantity": 9
     },
     {
         "id": 18,
@@ -141,7 +157,8 @@
         "image": "/images/beds-waterproof.avif",
         "description": "Durable, easy-to-clean bed with water-resistant cover",
         "price": 59.99,
-        "category": "beds"
+        "category": "beds",
+        "quantity": 10
     },
     {
         "id": 19,
@@ -149,7 +166,8 @@
         "image": "/images/beds-raised.avif",
         "description": "Elevated bed with breathable mesh for temperature regulation",
         "price": 49.99,
-        "category": "beds"
+        "category": "beds",
+        "quantity": 70
     },
     {
         "id": 20,
@@ -157,7 +175,8 @@
         "image": "/images/beds-cozy.avif",
         "description": "Enclosed bed with soft interior for dogs who love to burrow",
         "price": 64.99,
-        "category": "beds"
+        "category": "beds",
+        "quantity": 120
     },
     {
         "id": 21,
@@ -165,7 +184,8 @@
         "image": "/images/dental-care-gel.avif",
         "description": "Professional-grade dental gel to reduce plaque and tartar",
         "price": 18.99,
-        "category": "dental-care"
+        "category": "dental-care",
+        "quantity": 30
     },
     {
         "id": 22,
@@ -173,7 +193,8 @@
         "image": "/images/dental-tootbrush.avif",
         "description": "Ergonomic toothbrush with multiple heads for different dog sizes",
         "price": 12.99,
-        "category": "dental-care"
+        "category": "dental-care",
+        "quantity": 25
     },
     {
         "id": 23,
@@ -181,7 +202,8 @@
         "image": "/images/dental-care-chew-sticks.avif",
         "description": "Textured chew sticks that help clean teeth while dogs enjoy",
         "price": 15.99,
-        "category": "dental-care"
+        "category": "dental-care",
+        "quantity": 35
     },
     {
         "id": 24,
@@ -189,6 +211,7 @@
         "image": "/images/dental-care-oral.avif",
         "description": "Tasteless liquid to add to water for improved dental hygiene",
         "price": 9.99,
-        "category": "dental-care"
+        "category": "dental-care",
+        "quantity": 70
     }
 ]
